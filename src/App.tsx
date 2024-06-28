@@ -1,9 +1,11 @@
-import React from 'react';
+import React from 'react'
 
 const App: React.FC = () => {
   return (
-    <div>React18 + TypeScript</div>
-  );
-};
+    <div>
+      <h1>asd </h1>React18 + TypeScript
+    </div>
+  )
+}
 
-export default App;
+export default App
